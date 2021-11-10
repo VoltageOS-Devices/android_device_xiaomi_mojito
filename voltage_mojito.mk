@@ -23,6 +23,9 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
+# Voltage OS Official
+VOLTAGE_BUILD_TYPE := OFFICIAL
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="mojito" \
     PRODUCT_NAME="mojito" \
