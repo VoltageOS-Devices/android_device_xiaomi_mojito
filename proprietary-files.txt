@@ -329,6 +329,7 @@ vendor/lib/android.hardware.camera.provider@2.4-external.so
 vendor/lib/android.hardware.camera.provider@2.4-legacy.so
 vendor/etc/init/android.hardware.camera.provider@2.4-service_64.rc
 vendor/bin/hw/android.hardware.camera.provider@2.4-service_64
+system/system/lib/libcameraservice.so
 
 # Camera Arcsoft
 vendor/lib64/libarcsoft_beautyshot.so
