@@ -1,0 +1,41 @@
+[
+   {
+   "remote"       : "github",
+   "repository"   : "VoltageOS-Devices/android_device_xiaomi_sm6150-common",
+   "target_path"  : "device/xiaomi/sm6150-common",
+   "branch"       : "12"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "Spark-Devices/android_kernel_xiaomi_mojito",
+   "target_path"  : "kernel/xiaomi/mojito",
+   "branch"       : "spark",
+   "clone-depth"  : "1"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "StatiXOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf",
+   "target_path"  : "prebuilts/gcc/linux-x86/aarch64/arm64-gcc",
+   "branch"       : "12.0.0",
+   "clone-depth"  : "1"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"StatiXOS/android_prebuilts_gcc_linux-x86_arm_arm-eabi",
+   "target_path"  :"prebuilts/gcc/linux-x86/arm/arm-eabi",
+   "branch"       : "12.0.0",
+   "clone-depth"  : "1"
+   },
+   {
+   "remote"       :"gitlab",
+   "repository"   :"pixelexperience.org/android/vendor-blobs/vendor_xiaomi_mojito",
+   "target_path"  :"vendor/xiaomi/mojito",
+   "branch"       : "twelve"
+   },
+   {
+   "remote"       :"gitlab",
+   "repository"   :"pixelexperience.org/android/vendor-blobs/vendor_xiaomi_sm6150-common",
+   "target_path"  :"vendor/xiaomi/sm6150-common",
+   "branch"       : "twelve"
+   }
+]
