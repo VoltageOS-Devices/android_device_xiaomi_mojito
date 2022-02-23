@@ -38,7 +38,7 @@ TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_mojito
 
 # Kernel
 TARGET_KERNEL_CONFIG := neternels_defconfig
-TARGET_KERNEL_SOURCE := kernel/xiaomi/sm6150
+TARGET_KERNEL_SOURCE := kernel/xiaomi/mojito
 
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := mojito,sunny
